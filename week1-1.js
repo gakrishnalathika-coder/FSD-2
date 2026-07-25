@@ -1,0 +1,10 @@
+"use strict";
+let age = 20;
+let nam = "Krishna";
+let isStudent = true;
+console.log("Data type of age is :" + typeof age);
+console.log("Data type of nam is :" + typeof nam);
+console.log("Data type of isStudent is :" + typeof isStudent);
+console.log("Age:", age);
+console.log("Name:", name);
+console.log("Student:", isStudent);
